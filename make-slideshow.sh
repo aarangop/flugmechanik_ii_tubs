@@ -1,0 +1,1 @@
+jupyter nbconvert ./uebung_1.ipynb --to slides --post serve  --SlidesExporter.reveal_scroll=true --SlidesExporter.reveal_theme=simple
